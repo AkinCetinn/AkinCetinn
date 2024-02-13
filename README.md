@@ -1,7 +1,10 @@
+https://www.shutterstock.com/image-vector/geeky-cat-mascot-character-illustration-600nw-1973832326.jpg
+
 <h1 align="center">Hi 👋, I'm Akın Çetin</h1>
 <h3 align="center">A passionate junior full-stack developer from Turkey</h3>
+https://www.shutterstock.com/image-vector/geeky-cat-mascot-character-illustration-600nw-1973832326.jpg
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akincetinn&label=Profile%20views&color=0e75b6&style=flat" alt="akincetinn" /> </p>
+
 
 - 🌱 I’m currently learning **.Net Framework**
 
