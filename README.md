@@ -1,8 +1,9 @@
-![image](https://github.com/AkinCetinn/AkinCetinn/assets/157801394/25c21aca-a82a-489e-9eef-4ab6be78f929)
-
-
 <h1 align="center">Hi 👋, I'm Akın Çetin</h1>
 <h3 align="center">A passionate junior full-stack developer from Turkey</h3>
+    
+![image](https://github.com/AkinCetinn/AkinCetinn/assets/157801394/97cf6c66-6fd6-4f11-a286-5989a9c4edbc)
+
+
 
 
 
