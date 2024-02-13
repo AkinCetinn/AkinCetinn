@@ -1,8 +1,9 @@
-https://www.shutterstock.com/image-vector/geeky-cat-mascot-character-illustration-600nw-1973832326.jpg
+![image](https://github.com/AkinCetinn/AkinCetinn/assets/157801394/25c21aca-a82a-489e-9eef-4ab6be78f929)
+
 
 <h1 align="center">Hi 👋, I'm Akın Çetin</h1>
 <h3 align="center">A passionate junior full-stack developer from Turkey</h3>
-https://www.shutterstock.com/image-vector/geeky-cat-mascot-character-illustration-600nw-1973832326.jpg
+
 
 
 
