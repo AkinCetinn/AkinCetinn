@@ -1,3 +1,4 @@
+![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 <h1 align="center">Hi 👋, I'm Akın Çetin</h1>
 <h3 align="center">A passionate junior full-stack developer from Turkey</h3>
 
